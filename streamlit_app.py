@@ -1,1 +1,2 @@
-created the main python file
+import streamlit
+stramlit.title('my parent new healthy dinner')
